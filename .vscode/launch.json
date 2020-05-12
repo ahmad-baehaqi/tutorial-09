@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<tutorial6>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.apap.tu09.DemoApplication",
+            "projectName": "tutorial6",
+            "args": ""
+        }
+    ]
+}
